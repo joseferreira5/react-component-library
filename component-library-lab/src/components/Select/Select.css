@@ -1,0 +1,24 @@
+select {
+	font-size: 14px;
+	border: 1px solid #f1f3f4;
+}
+
+.select-small {
+	padding: 2px;
+	width: 120px;
+}
+
+.select-medium {
+	padding: 6px;
+	width: 200px;
+}
+
+.select-large {
+	padding: 12px;
+	width: 200px;
+}
+
+.gray {
+	background-color: #fafafb;
+	border: none;
+}

@@ -1,0 +1,20 @@
+label {
+	display: block;
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+.input-small {
+	padding: 4px;
+	margin-top: 4px;
+}
+
+.input-medium {
+	padding: 6px;
+	margin-top: 6px;
+}
+
+.input-large {
+	padding: 10px;
+	margin-top: 10px;
+}
